@@ -1,0 +1,265 @@
+{
+  "ContentView_FullPage": {
+    "Title": ""
+  },
+  "state": {
+    "YesLabel": "RUN",
+    "NoLabel": "Track",
+    "Description": "Track this ticket"
+  },
+  "ddvActions": {
+    "Description": "Actions on this ticket",
+    "Title": "Action"
+  },
+  "/Ticketing/Incident/Action/Assign": {
+    "Description": "Assignment",
+    "Title": "Assignment"
+  },
+  "/Ticketing/Incident/Action/TransformToChangeTicket": {
+    "Description": "Convert to change ticket",
+    "Title": "Convert to change ticket"
+  },
+  "/Ticketing/Incident/Action/Edit": {
+    "Description": "Ticket Change",
+    "Title": "Ticket Change"
+  },
+  "View": {
+    "Description": ""
+  },
+  "Request_Name": {
+    "Label": "Request type"
+  },
+  "AdvancedProcedure": {
+    "Label": "Procedure"
+  },
+  "RCAName": {
+    "Label": "Is it a real incident?"
+  },
+  "Typology": {
+    "Label": ""
+  },
+  "Ticket_Type_Name": {
+    "Label": "Ticket"
+  },
+  "IsCustomerRequest": {
+    "Label": "Customer ticket?"
+  },
+  "ProblemPriority": {
+    "Label": "Priority"
+  },
+  "Status": {
+    "Label": "Status",
+    "Description": ""
+  },
+  "CreationDate": {
+    "Label": "First alert"
+  },
+  "SubmitDate": {
+    "Label": "Created on"
+  },
+  "LastModificationDate": {
+    "Label": "Modification date"
+  },
+  "Service_Name": {
+    "Label": "Department"
+  },
+  "Company_Name": {
+    "Label": "Customer"
+  },
+  "ProjectsNames": {
+    "Label": "Project"
+  },
+  "Equipments": {
+    "Label": "Equipment"
+  },
+  "Responsibility": {
+    "Label": "Responsibility"
+  },
+  "Source": {
+    "Label": ""
+  },
+  "IsPublic": {
+    "Label": "Public ticket"
+  },
+  "ProblemStatus": {
+    "Label": "Validation Status"
+  },
+  "status_RCE": {
+    "Label": "RCE Status"
+  },
+  "CaseSupportNo": {
+    "Label": "Case number"
+  },
+  "SeverityName": {
+    "Label": "Severity"
+  },
+  "IsHO": {
+    "Label": "Time slot"
+  },
+  "lbnProjet": {
+    "Title": ""
+  },
+  "badgeContact": {
+    "Description": "Customer contacts"
+  },
+  "badgeComputer": {
+    "Description": "Events"
+  },
+  "badgeEquipment": {
+    "Description": "Equipment"
+  },
+  "badgePb": {
+    "Description": "Linked tickets"
+  },
+  "badgeAttachments": {
+    "Description": "Attached file"
+  },
+  "CreatedBy": {
+    "Description": "Logged by"
+  },
+  "AssignedTo": {
+    "Description": "Assigned to"
+  },
+  "lbnAlertes": {
+    "Description": "Date of first trigger alert (if multiple monitors present) or date when the trigger got out of maintenance - Adding monitors after incident creation will not modify the date of first trigger alert",
+    "Title": "Counter Alert"
+  },
+  "lbnPEC": {
+    "Title": "Assignment"
+  },
+  "lbnReso": {
+    "Title": "Resolution Date"
+  },
+  "lbnClos": {
+    "Title": "Closing"
+  },
+  "lbnAffect": {
+    "Title": "Last Assignment"
+  },
+  "lbnPEC2": {
+    "Description": "Without counter: Assignment Delay = Last Assignment - Creation date\r\nWith counter: Assignment Delay = Last Assignment - First alert",
+    "Title": "Assignment Delay"
+  },
+  "lbnReelle": {
+    "Title": "Implementation Time"
+  },
+  "lbnAttente": {
+    "Description": "Standby time",
+    "Title": "Waiting Time"
+  },
+  "lbnInterrup": {
+    "Description": "Input by admin",
+    "Title": ""
+  },
+  "lbnResol": {
+    "Description": "Resolution = Resolve Date - Assignment - Waiting time",
+    "Title": "Resolution"
+  },
+  "Menu": {
+    "MenuLabel_1484203546": "Details",
+    "MenuLabel_1485349156": "Request and Comments",
+    "MenuLabel_1485349264": "Equipment & Monitors",
+    "MenuLabel_1485349320": "Projects",
+    "MenuLabel_1485349405": "Dependencies & Problems",
+    "MenuLabel_1485349444": "",
+    "MenuLabel_1485349517": "Maintenance",
+    "MenuLabel_1485349569": "",
+    "MenuLabel_1485349607": "",
+    "MenuLabel_1485349663": "New ticket",
+    "MenuLabel_1485349719": "SM Review",
+    "MenuLabel_1485349767": "Password",
+    "MenuLabel_1485349834": "Ticket Tracking",
+    "MenuLabel_1487067044": "Details",
+    "MenuLabel_1487071085": "Request and Comments",
+    "MenuLabel_1487071139": "Equipment & Monitors",
+    "MenuLabel_1487071175": "Projects",
+    "MenuLabel_1487071216": "Dependencies & Problems",
+    "MenuLabel_1487071267": "Maintenance",
+    "MenuLabel_1487071330": "Procedure",
+    "MenuLabel_1487071402": "",
+    "MenuLabel_1487071449": "",
+    "MenuLabel_1487071594": "Password",
+    "MenuLabel_1487071728": "Ticket Tracking",
+    "MenuLabel_1487071803": "OLA",
+    "MenuLabel_1487071892": "Satisfaction survey",
+    "MenuLabel_1487068701": "",
+    "MenuLabel_1487073701": "",
+    "MenuLabel_1487073749": "",
+    "MenuLabel_1487073792": "",
+    "MenuLabel_1487073962": "",
+    "MenuLabel_1487073996": "",
+    "MenuLabel_1487074042": "",
+    "MenuLabel_1487074089": "",
+    "MenuLabel_1487074151": ""
+  },
+  "/Ticketing/View/Action/Unassign": {
+    "Description": "Restore to pipeline",
+    "Title": "Restore to pipeline"
+  },
+  "/Ticketing/View/Action/Edit": {
+    "Description": "Edit ticket properties",
+    "Title": "Edit ticket properties"
+  },
+  "/Ticketing/Change/Action/AddFollowUp": {
+    "Description": "Comment",
+    "Title": "Comment"
+  },
+  "/Ticketing/Change/Action/Pending": {
+    "Description": "Pending",
+    "Title": "Pending"
+  },
+  "/Ticketing/Change/Action/Resolve": {
+    "Description": "",
+    "Title": "Approve"
+  },
+  "/Ticketing/Change/Action/CloseHS": {
+    "Description": "Close Out Stat",
+    "Title": "Exclude from statistics"
+  },
+  "resolvContactView": {
+    "Description": "Sent for approval by"
+  },
+  "lnkSouhaite": {
+    "Description": "",
+    "Title": "Scheduled for"
+  },
+  "lnkLastResolv": {
+    "Title": "Sent for approval on"
+  },
+  "lnkClos": {
+    "Description": "Administrative Closing: Date on which the ticket was closed",
+    "Title": "Closed Date"
+  },
+  "lnkPrevue": {
+    "Title": "Estimated time"
+  },
+  "lnkCumul": {
+    "Description": "",
+    "Title": "Implementation time"
+  },
+  "lnkPriseEnCharge": {
+    "Title": "Assignment Delay"
+  },
+  "lnkTraitement": {
+    "Description": "",
+    "Title": "Open since"
+  },
+  "LinkProcedureTitle": {
+    "Title": "Attached procedure?"
+  },
+  "infoCatalogue": {
+    "Title": "Catalog"
+  },
+  "/Ticketing/Incident/Action/AddFollowUp": {
+    "Description": "Comment",
+    "Title": "Comment"
+  },
+  "/Ticketing/Change/Action/EditDetail": {
+    "Description": "Edit the request",
+    "Title": "Edit the request"
+  },
+  "/Ticketing/Change/Action/UpdatePriority": {
+    "Description": "Change the priority",
+    "Title": "Change the priority"
+  }
+}

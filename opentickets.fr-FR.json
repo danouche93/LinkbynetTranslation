@@ -1,0 +1,126 @@
+{
+  "boxChanges": {
+    "Title": "Tickets changements"
+  },
+  "tChanges": {
+    "Columns.Ticket_Id": "N° Ticket",
+    "Columns.Title": "Titre",
+    "Columns.Project_Name": "Projet",
+    "Columns.Service_Name": "Service",
+    "Columns.Creator_FullName": "Créateur",
+    "Columns.CreationDate": "Date de création",
+    "Columns.DesiredDate": "Date prévue",
+    "Columns.Validator": "Contact Valideur",
+    "Title": "A valider",
+    "Columns.Projects": ""
+  },
+  "boxIncidents": {
+    "Title": "Incidents en cours de résolution"
+  },
+  "tIncidentsOpen": {
+    "Columns.Ticket_Id": "N° Ticket",
+    "Columns.Severity_name": "Sévérité",
+    "Columns.Title": "Titre",
+    "Columns.Ticket_Status_Name": "Etat",
+    "Columns.OpenDate": "Date de création",
+    "Columns.OpenSince": "Ouvert depuis",
+    "Columns.Company_Name": "Société",
+    "Columns.Creator": "Créateur",
+    "Columns.Category_Name": "Type",
+    "Columns.Projects": "Projets"
+  },
+  "tIncidentsSolved": {
+    "Columns.Ticket_Id": "N° Ticket",
+    "Columns.Severity_Name": "Sévérité",
+    "Columns.Title": "Titre",
+    "Columns.Ticket_Status_Name": "Etat",
+    "Columns.OpenDate": "Date d'ouverture",
+    "Columns.OpenSince": "Ouvert depuis",
+    "Columns.Company_Name": "Société",
+    "Columns.Creator": "Créateur",
+    "Columns.Category_Name": "Type",
+    "Columns.Projects": "Projets"
+  },
+  "boxPbs": {
+    "Title": "Tickets problèmes"
+  },
+  "tPbs": {
+    "Columns.Ticket_Id": "N° Ticket",
+    "Columns.Priority": "Priorité",
+    "Columns.Title": "Titre",
+    "Columns.Status": "Etat",
+    "Columns.CreationDate": "Date de création",
+    "Columns.Category_Name": "Type"
+  },
+  "lnkTicket": {
+    "Description": "Accéder au ticket",
+    "Title": ""
+  },
+  "lnkTicket2": {
+    "Description": "Accéder au ticket",
+    "Title": ""
+  },
+  "lnkProject": {
+    "Description": "Accéder à la fiche projet",
+    "Title": ""
+  },
+  "boxIncidentsSolved": {
+    "Title": "Incidents résolus en cours de fermeture"
+  },
+  "tChangesValidated": {
+    "Columns.Ticket_Id": "N° Ticket",
+    "Columns.Title": "Titre",
+    "Columns.Project_Name": "Projet",
+    "Columns.Service_Name": "Service",
+    "Columns.Creator_FullName": "Créateur",
+    "Columns.CreationDate": "Date de création",
+    "Columns.DesiredDate": "Date prévue",
+    "Columns.Status_Name": "Etat",
+    "Title": "Validés",
+    "Columns.Projects": ""
+  },
+  "tValidators": {
+    "Description": "Contacts pouvant valider le ticket",
+    "Title": "",
+    "Columns.FullName": "",
+    "Columns.Email": ""
+  },
+  "View": {
+    "Title": "Refuser",
+    "PopinView_ConfirmMessage": ""
+  },
+  "fValidate": {
+    "Title": "Valider",
+    "PopinView_ConfirmMessage": ""
+  },
+  "Non": {
+    "Label": "Non"
+  },
+  "Oui": {
+    "Label": "Oui"
+  },
+  "boxActions": {
+    "Title": ""
+  },
+  "toto": {
+    "Columns.ticket_id": "",
+    "Columns.Title": "",
+    "Columns.Service_Name": "",
+    "Columns.Creator_FullName": "",
+    "Columns.CreationDate": "",
+    "Columns.DesiredDate": "",
+    "Columns.status_Name": "",
+    "Columns.Actions": "",
+    "Columns.Projects": "",
+    "Columns.WaitingFor": ""
+  },
+  "lnkWait": {
+    "Description": ""
+  },
+  "lnkValidate": {
+    "Description": ""
+  },
+  "lnkRefuse": {
+    "Description": ""
+  }
+}
