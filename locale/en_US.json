@@ -1,0 +1,22 @@
+{
+    "bonjour": {
+        "translation": "hello",
+        "notes": ""
+    },
+    "aurevoir": {
+        "translation": "good bye",
+        "notes": ""
+    },
+    "pomme": {
+        "translation": "apple",
+        "notes": ""
+    },
+    "souris": {
+        "translation": "mouse",
+        "notes": ""
+    },
+    "manger": {
+        "translation": "",
+        "notes": ""
+    }
+}
