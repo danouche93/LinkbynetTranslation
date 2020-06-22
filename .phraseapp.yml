@@ -1,6 +1,6 @@
 phraseapp:
-  access_token: 3cbe8f52dca2ada32184d8ea4a9d8543d7d1cf7a
-  project_id: b25e10eb57aa0ee3ea44a4b271f2fde8
+  access_token: 63f0269aeea4af5d56feae7fec221fd45ce083cd
+  project_id: f5f9c63f61e3297a86ac318a7c9dfbcb
   file_format: json
   push:
     sources:
