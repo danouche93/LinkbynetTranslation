@@ -1,139 +1,21 @@
 {
-  "bxSearch": {
-    "Title": "Formulaire de recherche"
-  },
-  "SearchForm": {
-    "Description": "Rechercher un ticket"
-  },
-  "Datedecréation": {
-    "Label": "Date de création"
-  },
-  "FromCreationDate": {
-    "Label": "Entre le"
-  },
-  "ToCreationDate": {
-    "Label": "Et le"
-  },
-  "Datedeclôture": {
-    "Label": "Date de clôture"
-  },
-  "FromClosedDate": {
-    "Label": "Entre le"
-  },
-  "ToClosedDate": {
-    "Label": "Et le"
-  },
-  "Informationsinternes": {
-    "Label": "Informations internes"
-  },
-  "TypeId": {
-    "Label": "Type de ticket"
-  },
-  "Id_status": {
-    "Label": "Statut du ticket"
-  },
-  "CreatorUser_Id": {
-    "Label": "Créateur LBN du ticket"
-  },
-  "id_service": {
-    "Label": "Service"
-  },
-  "AdminUser_Id": {
-    "Label": ""
-  },
-  "Informationsclientes": {
-    "Label": "Informations clientes"
-  },
-  "Company_Id": {
-    "Label": "Compagnie"
-  },
-  "CreatorContact_Id": {
-    "Label": "Créateur client du ticket"
-  },
-  "Project_Id": {
-    "Label": "Projet"
-  },
-  "Equipment_Id": {
-    "Label": "Equipement"
-  },
-  "Rechercher": {
-    "Label": "Rechercher"
-  },
-  "boxResult": {
-    "Title": "Résultat de la recherche"
-  },
-  "SearchResult": {
-    "Columns.Id": "Ticket",
-    "Columns.Title": "Titre",
-    "Columns.CreationDate": "Date de création",
-    "Columns.ClosedDate": "Date de clôture",
-    "Columns.TypeOfTicketId": "Type de ticket",
-    "Columns.ContactLbn": "Créateur",
-    "Columns.StatusId": "Statut",
-    "Columns.AssignedLbnUser": "Personne en charge",
-    "ColumnsInfo.TypeOfTicketId": "Statut de validation",
-    "ColumnsInfo.Sev/Prio": "Sev/Prio",
-    "ColumnsInfo.TypeIncident": "Type incident",
-    "ColumnsInfo.Event_Id": "Moniteurs",
-    "Columns.Project": "",
-    "ColumnsInfo.Service": ""
-  },
-  "boxItsm": {
-    "Title": ""
-  },
-  "Search": {
-    "Description": ""
-  },
-  "fromIdefix": {
-    "YesLabel": "",
-    "NoLabel": "",
-    "Label": "",
-    "Description": ""
-  },
-  "Id": {
-    "Label": ""
-  },
-  "List": {
-    "Columns.Ticket_Id": "",
-    "Columns.ProviderReference1": ""
-  },
-  "Moniteur": {
-    "YesLabel": "Yes",
-    "NoLabel": "No",
-    "Label": " Recherche par moniteur"
-  },
-  "cisTypes": {
-    "Label": "Type de CI"
-  },
-  "categories": {
-    "Label": "Catégories de moniteur"
-  },
-  "event_Ids": {
-    "Label": "Moniteurs",
-    "WarningMessage": "Seuls les 500 premiers résultats sont disponibles en cas de critères de recherche trop larges",
-    "Description": "Choix des moniteurs"
-  },
-  "Recherchestricte": {
-    "Label": "Recherche stricte"
-  },
-  "Ticket_Id": {
-    "Label": "N° Ticket"
-  },
-  "Mot(s)clé(s)": {
-    "Label": "Mot(s) clé(s)"
-  },
-  "keyword": {
-    "Label": "Texte recherché"
-  },
-  "textStrict": {
-    "YesLabel": "Oui",
-    "NoLabel": "Non",
-    "Label": "Recherche stricte"
-  },
-  "IncidentType_Id": {
-    "Label": "Type d'incident"
-  },
-  "Priority": {
-    "Label": "Priorité / sévérité"
-  }
+  "Search for an equipment": "Recherche d'équipement(s)",
+  "Nom ou partie du nom": "Nom ou partie du nom",
+  "Type d'équipement": "Type d'équipement",
+  "Rechercher": "Rechercher",
+  "Search result": "Vos équipements",
+  "Nom": "Nom",
+  "Type": "Type",
+  "Environment(s)": "Environment(s)",
+  "Function(s)": "Fonction(s)",
+  "OS": "OS",
+  "Service level": "Niveau de service",
+  "Projet(s)": "Projet(s)",
+  "Comment": "Commentaire",
+  "Id": "ID",
+  "Outsourcing": "Infogérance",
+  "Société": "Société",
+  "Ip": "IP",
+  "Actions": "Actions",
+  "Company_Id": "Company_Id"
 }

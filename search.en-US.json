@@ -1,139 +1,21 @@
 {
-  "bxSearch": {
-    "Title": "Search"
-  },
-  "SearchForm": {
-    "Description": ""
-  },
-  "Datedecréation": {
-    "Label": "Creation Date"
-  },
-  "FromCreationDate": {
-    "Label": "From"
-  },
-  "ToCreationDate": {
-    "Label": "To"
-  },
-  "Datedeclôture": {
-    "Label": "Closing Date"
-  },
-  "FromClosedDate": {
-    "Label": "From"
-  },
-  "ToClosedDate": {
-    "Label": "To"
-  },
-  "Informationsinternes": {
-    "Label": "Additional Information"
-  },
-  "TypeId": {
-    "Label": "Ticket Type"
-  },
-  "Id_status": {
-    "Label": "Ticket Status"
-  },
-  "CreatorUser_Id": {
-    "Label": "Ticket Creator(LBN)"
-  },
-  "id_service": {
-    "Label": ""
-  },
-  "AdminUser_Id": {
-    "Label": "Ticket Administrator"
-  },
-  "Informationsclientes": {
-    "Label": "Client Information"
-  },
-  "Company_Id": {
-    "Label": "Company"
-  },
-  "CreatorContact_Id": {
-    "Label": "Created by"
-  },
-  "Project_Id": {
-    "Label": "Project"
-  },
-  "Equipment_Id": {
-    "Label": "Equipment"
-  },
-  "Rechercher": {
-    "Label": "Search"
-  },
-  "boxResult": {
-    "Title": "Results"
-  },
-  "SearchResult": {
-    "Columns.Id": "Ticket",
-    "Columns.Title": "Title",
-    "Columns.CreationDate": "Creation date",
-    "Columns.ClosedDate": "Closing date",
-    "Columns.TypeOfTicketId": "Ticket Type",
-    "Columns.ContactLbn": "Creator",
-    "Columns.StatusId": "Status",
-    "Columns.AssignedLbnUser": "Assignee(LBN)",
-    "ColumnsInfo.TypeOfTicketId": "Validation status",
-    "ColumnsInfo.Sev/Prio": "",
-    "ColumnsInfo.TypeIncident": "Type of incident",
-    "ColumnsInfo.Event_Id": "Monitors",
-    "Columns.Project": "",
-    "ColumnsInfo.Service": ""
-  },
-  "boxItsm": {
-    "Title": "Correspondence between Idefix and ITSM Client"
-  },
-  "Search": {
-    "Description": ""
-  },
-  "fromIdefix": {
-    "YesLabel": "Idefix",
-    "NoLabel": "",
-    "Label": "Ticket type",
-    "Description": "Ticket type"
-  },
-  "Id": {
-    "Label": "Ticket number"
-  },
-  "List": {
-    "Columns.Ticket_Id": "",
-    "Columns.ProviderReference1": ""
-  },
-  "Moniteur": {
-    "YesLabel": "",
-    "NoLabel": "",
-    "Label": "Search by monitor"
-  },
-  "cisTypes": {
-    "Label": "CI Type"
-  },
-  "categories": {
-    "Label": "Monitor categories"
-  },
-  "event_Ids": {
-    "Label": "Monitors",
-    "WarningMessage": "Only the first ̀500 results will be displayed if the search criteria are too wide",
-    "Description": "Monitors' choices"
-  },
-  "Recherchestricte": {
-    "Label": "Strict Search"
-  },
-  "Ticket_Id": {
-    "Label": "Ticket No"
-  },
-  "Mot(s)clé(s)": {
-    "Label": "Key word(s)"
-  },
-  "keyword": {
-    "Label": "Text"
-  },
-  "textStrict": {
-    "YesLabel": "Yes",
-    "NoLabel": "No",
-    "Label": "Strict Search"
-  },
-  "IncidentType_Id": {
-    "Label": "Incident Type"
-  },
-  "Priority": {
-    "Label": "Priority / Severity"
-  }
+  "Search for an equipment": "Equipment search",
+  "Nom ou partie du nom": "Name or part of name",
+  "Type d'équipement": "Equipment type",
+  "Rechercher": "Search",
+  "Search result": "Equipment",
+  "Nom": "Name",
+  "Type": "",
+  "Environment(s)": "Environments",
+  "Function(s)": "Functions",
+  "OS": "",
+  "Service level": "Service level",
+  "Projet(s)": "Projects",
+  "Comment": "Comment",
+  "Id": "ID",
+  "Outsourcing": "Outsourcing",
+  "Société": "Company",
+  "Ip": "IP",
+  "Actions": "",
+  "Company_Id": ""
 }

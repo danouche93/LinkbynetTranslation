@@ -1,7 +1,21 @@
 {
-    "bonjour": "Hello",
-    "aurevoir": "Goodbye",
-    "pomme": "Apple",
-    "souris": "mouse",
-    "manger": "eat"
+  "Search for an equipment": "Equipment search",
+  "Nom ou partie du nom": "Name or part of name",
+  "Type d'équipement": "Equipment type",
+  "Rechercher": "Search",
+  "Search result": "Equipment",
+  "Nom": "Name",
+  "Type": "",
+  "Environment(s)": "Environments",
+  "Function(s)": "Functions",
+  "OS": "",
+  "Service level": "Service level",
+  "Projet(s)": "Projects",
+  "Comment": "Comment",
+  "Id": "ID",
+  "Outsourcing": "Outsourcing",
+  "Société": "Company",
+  "Ip": "IP",
+  "Actions": "",
+  "Company_Id": ""
 }

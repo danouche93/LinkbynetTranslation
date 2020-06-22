@@ -1,0 +1,10 @@
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.exe
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.deps.json
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.runtimeconfig.json
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.runtimeconfig.dev.json
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.dll
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\bin\Release\netcoreapp3.1\win-x64\DownloadTranslation.pdb
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\obj\Release\netcoreapp3.1\win-x64\DownloadTranslation.AssemblyInfoInputs.cache
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\obj\Release\netcoreapp3.1\win-x64\DownloadTranslation.AssemblyInfo.cs
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\obj\Release\netcoreapp3.1\win-x64\DownloadTranslation.dll
+D:\GitHub\LinkbynetTranslation\DownloadTranslation\DownloadTranslation\obj\Release\netcoreapp3.1\win-x64\DownloadTranslation.pdb
